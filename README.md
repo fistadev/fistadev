@@ -9,8 +9,7 @@ Here I post updates of my journey as Web Developer & AI Engineering.
 * Python
 * Git and GitHub
 * Machine Learning
-* Feature Engineering
-* AI
+* Deep Learning
 ```
 
 
@@ -32,7 +31,7 @@ Live projects with Streamlit:
 
 * [Python](https://www.python.org/)
 * HTML / CSS
-* SQL / json
+* [SQLite](https://sqlitebrowser.org/) / json
 * [Numpy](https://numpy.org/) / [Pandas](https://pandas.pydata.org/docs/user_guide/10min.html)
 * Matplotlib / Seaborn
 * Web Scraping - BeautifulSoup
@@ -43,22 +42,18 @@ Live projects with Streamlit:
 
 ### Workflow 🖥
 
-* [VSCode](https://code.visualstudio.com/)
-* [PyCharm](https://www.jetbrains.com/pycharm/)
+* IDE: [VSCode](https://code.visualstudio.com/) / [PyCharm](https://www.jetbrains.com/pycharm/)
+* Notebooks: [Jupyter Notebook](https://jupyter.org/) / [DeepNote](https://deepnote.com/) 
 * [Anaconda](https://www.anaconda.com/)
-* [Jupyter Notebook](https://jupyter.org/)
-* [GitHub Desktop](https://desktop.github.com/)
-* [DeepNote](https://deepnote.com/)
-* [SQLite](https://sqlitebrowser.org/)
 
 
 ### NoCode Stuff
 
-* [Mailchimp](https://mailchimp.com/)
-* [Webflow](https://webflow.com/)
-* [Typeform](https://www.typeform.com/)
-* [Zapier](https://zapier.com/)
-* [Linktree](https://linktr.ee/)
+* Email Marketing: [Mailchimp](https://mailchimp.com/)
+* Website / Blog / Landing Pages: [Webflow](https://webflow.com/) / Wordpress / [Linktree](https://linktr.ee/) / Kajabi / Clickfunnels
+* Quizz / Data: [Typeform](https://www.typeform.com/)
+* Organization: [Zapier](https://zapier.com/) / [Trello](https://trello.com/)
+
 
 
 ### Highlight 📚
