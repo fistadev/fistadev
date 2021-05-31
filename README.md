@@ -1,5 +1,7 @@
 ## I am Fabio 
 
+![](https://apps.streamlitusercontent.com/ntc-google-fit/google_fit_project/main/app.py/+/media/31cba5ee24ab5631d031eb545ee626989454437ed3e11c0ff2127005.jpeg)
+
 Here I post updates of my journey as Web Developer & AI Engineering.
 
 
@@ -29,17 +31,13 @@ Live projects with Streamlit:
 ### Stacks / Techs / Skills 🐍
 
 * [Python](https://www.python.org/)
-* HTML
-* CSS
-* json
-* SQL
-* [Numpy](https://numpy.org/)
-* [Pandas](https://pandas.pydata.org/docs/user_guide/10min.html)
-* Matplotlib
-* Seaborn
-* Web Scraping
-* BeautifulSoup
+* HTML / CSS
+* SQL / json
+* [Numpy](https://numpy.org/) / [Pandas](https://pandas.pydata.org/docs/user_guide/10min.html)
+* Matplotlib / Seaborn
+* Web Scraping - BeautifulSoup
 * SciKit-Learn
+* Pytorch
 
 
 
@@ -74,7 +72,8 @@ I started a journey to become a AI engineering in the beginning of 2021.
 For more details check ou my [Twitter](https://twitter.com/fafistarol) ou my [Linkedin](https://www.linkedin.com/in/fabiofistarol/)
 
 
-#### Live view 🍿
+
+#### Online Version 🍿
 
 If you are on GitHub, [click here](https://fistadev.github.io/) to see it live.
 
