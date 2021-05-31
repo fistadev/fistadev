@@ -8,6 +8,7 @@ Here I post updates of my journey as Web Developer & AI Engineering.
 ```
 * Python
 * Git and GitHub
+* Data Analysis
 * Machine Learning
 * Deep Learning
 ```
@@ -27,38 +28,13 @@ Live projects with Streamlit:
 * [Trackts App](https://share.streamlit.io/ntc-google-fit/google_fit_project/main/app.py) - tracking app that predictions the transportation
 
 
-### Stacks / Techs / Skills 🐍
 
-* [Python](https://www.python.org/)
-* HTML / CSS
-* [SQLite](https://sqlitebrowser.org/) / json
-* [Numpy](https://numpy.org/) / [Pandas](https://pandas.pydata.org/docs/user_guide/10min.html)
-* Matplotlib / Seaborn
-* Web Scraping - BeautifulSoup
-* SciKit-Learn
-* Pytorch
-
-
-
-### Workflow 🖥
-
-* IDE: [VSCode](https://code.visualstudio.com/) / [PyCharm](https://www.jetbrains.com/pycharm/)
-* Notebooks: [Jupyter Notebook](https://jupyter.org/) / [DeepNote](https://deepnote.com/) 
-* [Anaconda](https://www.anaconda.com/)
-
-
-### NoCode Stuff
+<!-- ### NoCode Stuff
 
 * Email Marketing: [Mailchimp](https://mailchimp.com/)
 * Website / Blog / Landing Pages: [Webflow](https://webflow.com/) / Wordpress / [Linktree](https://linktr.ee/) / Kajabi / Clickfunnels
 * Quizz / Data: [Typeform](https://www.typeform.com/)
-* Organization: [Zapier](https://zapier.com/) / [Trello](https://trello.com/)
-
-
-
-### Highlight 📚
-
-I started a journey to become a AI engineering in the beginning of 2021.
+* Organization: [Zapier](https://zapier.com/) / [Trello](https://trello.com/) -->
 
 
 
@@ -71,6 +47,8 @@ For more details check ou my [Twitter](https://twitter.com/fafistarol) ou my [Li
 #### Online Version 🍿
 
 If you are on GitHub, [click here](https://fistadev.github.io/) to see it live.
+
+
 
 <!--
 **fistadev/fistadev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
