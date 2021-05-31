@@ -2,23 +2,22 @@
 
 Here I post updates of my journey as Web Developer & AI Engineering.
 
----
 
-Currently working with:
-* Belief Wedding Creators
-* Creadea
-
----
-
+```
 * Python
 * Git and GitHub
 * Machine Learning
 * Feature Engineering
 * AI
+```
 
-```
-__init__
-```
+
+Currently working with:
+* [Belief Wedding Creators](https://www.beliefweddingcreators.com/) - managing and planning web and data (email and ads)
+* [Two + Us](https://twoplususweddings.com/) - non-profit co-creator 
+* Creadea - currently planning company website 
+
+
 
 Live projects with Streamlit: 
 * [Goodreads](https://share.streamlit.io/dumbledore-on-strive/goodreads-app) - Webscraping, Data Analysis
