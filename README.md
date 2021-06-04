@@ -28,6 +28,16 @@ Here I post updates of my journey as Web Developer & AI Engineering.
 * [Trackts App](https://share.streamlit.io/ntc-google-fit/google_fit_project/main/app.py) - tracking app that predictions the transportation
 
 
+### Stacks / Techs / Skills
+
+* [Python](https://www.python.org/) / [Numpy](https://numpy.org/) / [Pandas](https://pandas.pydata.org/docs/user_guide/10min.html)
+* Matplotlib / Seaborn
+* SciKit-Learn / Pytorch
+* Flask / Streamlit / Django
+* HTML / CSS / Bootstrap
+* [VSCode](https://code.visualstudio.com/) / [PyCharm](https://www.jetbrains.com/pycharm/)
+* [Anaconda](https://www.anaconda.com/) / [Jupyter Notebook](https://jupyter.org/) / [DeepNote](https://deepnote.com/) / Google Collab
+
 
 <!-- ### NoCode Stuff
 
