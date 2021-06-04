@@ -2,7 +2,8 @@
 
 ![](https://apps.streamlitusercontent.com/ntc-google-fit/google_fit_project/main/app.py/+/media/31cba5ee24ab5631d031eb545ee626989454437ed3e11c0ff2127005.jpeg)
 
-Here I post updates of my journey as Web Developer & AI Engineering.
+Developer and Ai Engineering student. Also a photographer and musician during my free time. 📷 🎸 
+Here I post updates of my journey of learning, teaching and building.
 
 
 ```
@@ -14,21 +15,21 @@ Here I post updates of my journey as Web Developer & AI Engineering.
 ```
 
 
-### Currently working with:
+### 🗂 Currently working with:
 * [Belief Wedding Creators](https://www.beliefweddingcreators.com/) - managing and planning web and data (email and ads)
 * [Two + Us](https://twoplususweddings.com/) - non-profit co-creator 
 * Creadea - currently planning company website 
 
 
 
-### Live projects with Streamlit: 
+### 🖥 Live projects with Streamlit: 
 * [Goodreads](https://share.streamlit.io/dumbledore-on-strive/goodreads-app) - Webscraping, Data Analysis
 * [Star Wars Challenge](https://share.streamlit.io/fistadev/starwars_data_project/main/app.py) - Data Exploration, graphs
 * [Heart Attack Predictions](https://share.streamlit.io/fistadev/heart_attack_predictions/main/app.py) - Machine Learning Models
 * [Trackts App](https://share.streamlit.io/ntc-google-fit/google_fit_project/main/app.py) - tracking app that predictions the transportation
 
 
-### Stacks / Techs / Skills
+### 🛠 Stacks / Techs / Skills
 
 * [Python](https://www.python.org/) / [Numpy](https://numpy.org/) / [Pandas](https://pandas.pydata.org/docs/user_guide/10min.html)
 * Matplotlib / Seaborn
@@ -48,13 +49,13 @@ Here I post updates of my journey as Web Developer & AI Engineering.
 
 
 
-### Let's talk 💬
+### 💬 Let's talk 
 
 For more details check ou my [Twitter](https://twitter.com/fafistarol) ou my [Linkedin](https://www.linkedin.com/in/fabiofistarol/)
 
 
 
-### Online Version 🍿
+### 🍿 Online Version 
 
 If you are on GitHub, [click here](https://fistadev.github.io/) to see it live.
 
