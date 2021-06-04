@@ -3,6 +3,7 @@
 ![](https://apps.streamlitusercontent.com/ntc-google-fit/google_fit_project/main/app.py/+/media/31cba5ee24ab5631d031eb545ee626989454437ed3e11c0ff2127005.jpeg)
 
 Developer and Ai Engineering student. Also a photographer and musician during my free time. 📷 🎸 
+
 Here I post updates of my journey of learning, teaching and building.
 
 
