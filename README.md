@@ -1,6 +1,6 @@
 ## I am Fabio Fistarol
 
-![](https://apps.streamlitusercontent.com/ntc-google-fit/google_fit_project/main/app.py/+/media/31cba5ee24ab5631d031eb545ee626989454437ed3e11c0ff2127005.jpeg)
+![](https://github.com/fistadev/fistadev.github.io/blob/main/imgs/header-github.jpg)
 
 Developer and Ai Engineering student. Also a photographer and musician during my free time. 📷 🎸 
 
