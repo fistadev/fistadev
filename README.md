@@ -36,9 +36,9 @@ Here I post updates of my journey of learning, teaching and building.
 
 * [Python](https://www.python.org/) / [Numpy](https://numpy.org/) / [Pandas](https://pandas.pydata.org/docs/user_guide/10min.html)
 * Matplotlib / Seaborn
-* SciKit-Learn / Pytorch / OpenCV
-* Flask / Streamlit / Django
-* HTML / CSS / Bootstrap
+* [SciKit-Learn](https://scikit-learn.org/stable/index.html) / [Pytorch](https://pytorch.org/) / [OpenCV](https://opencv.org/)
+* [Flask](https://flask.palletsprojects.com/en/2.0.x/) / [Streamlit](https://streamlit.io/) / [Django](https://www.djangoproject.com/)
+* HTML / CSS / [Bootstrap](https://getbootstrap.com/)
 * [VSCode](https://code.visualstudio.com/) / [PyCharm](https://www.jetbrains.com/pycharm/)
 * [Anaconda](https://www.anaconda.com/) / [Jupyter Notebook](https://jupyter.org/) / [DeepNote](https://deepnote.com/) / Google Collab
 
