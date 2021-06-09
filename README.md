@@ -13,6 +13,7 @@ Here I post updates of my journey of learning, teaching and building.
 * Data Analysis
 * Machine Learning
 * Deep Learning
+* Computer Vision
 ```
 
 
@@ -26,15 +27,16 @@ Here I post updates of my journey of learning, teaching and building.
 ### 🖥 Live projects with Streamlit: 
 * [Goodreads](https://share.streamlit.io/dumbledore-on-strive/goodreads-app) - Webscraping, Data Analysis
 * [Star Wars Challenge](https://share.streamlit.io/fistadev/starwars_data_project/main/app.py) - Data Exploration, graphs
-* [Heart Attack Predictions](https://share.streamlit.io/fistadev/heart_attack_predictions/main/app.py) - Machine Learning Models
 * [Trackts App](https://share.streamlit.io/ntc-google-fit/google_fit_project/main/app.py) - tracking app that predictions the transportation
+* Fashion Mnist App - under construction
+<!-- * [Heart Attack Predictions](https://share.streamlit.io/fistadev/heart_attack_predictions/main/app.py) - Machine Learning Models -->
 
 
 ### 🛠 Stacks / Techs / Skills
 
 * [Python](https://www.python.org/) / [Numpy](https://numpy.org/) / [Pandas](https://pandas.pydata.org/docs/user_guide/10min.html)
 * Matplotlib / Seaborn
-* SciKit-Learn / Pytorch
+* SciKit-Learn / Pytorch / OpenCV
 * Flask / Streamlit / Django
 * HTML / CSS / Bootstrap
 * [VSCode](https://code.visualstudio.com/) / [PyCharm](https://www.jetbrains.com/pycharm/)
