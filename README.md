@@ -18,15 +18,15 @@ Here I post updates of my journey of learning, teaching and building.
 
 
 ### 🗂 Currently working with:
-* [Belief Wedding Creators](https://www.beliefweddingcreators.com/) - managing and planning web and data (email and ads)
-* [Two + Us](https://twoplususweddings.com/) - non-profit co-creator 
+* <a href="https://www.beliefweddingcreators.com/" target="_blank">Belief Wedding Creators</a> - managing and planning web and data (email and ads)
+* <a href="https://twoplususweddings.com/" target="_blank">Two + Us</a> - non-profit co-creator 
 * Creadea - currently planning company website 
 
 
 
 ### 🖥 Live projects with Streamlit: 
-* [Goodreads](https://share.streamlit.io/dumbledore-on-strive/goodreads-app) - Webscraping, Data Analysis
-* [Star Wars Challenge](https://share.streamlit.io/fistadev/starwars_data_project/main/app.py) - Data Exploration, graphs
+* <a href="https://share.streamlit.io/dumbledore-on-strive/goodreads-app" target="_blank">Goodreads</a> - Webscraping, Data Analysis
+* <a href="https://share.streamlit.io/fistadev/starwars_data_project/main/app.py" target="_blank">Star Wars Challenge</a> - Data Exploration, graphs
 * [Trackts App](https://share.streamlit.io/ntc-google-fit/google_fit_project/main/app.py) - tracking app that predictions the transportation
 * Fashion Mnist App - under construction
 <!-- * [Heart Attack Predictions](https://share.streamlit.io/fistadev/heart_attack_predictions/main/app.py) - Machine Learning Models -->
