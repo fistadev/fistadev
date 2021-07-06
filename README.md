@@ -31,11 +31,9 @@ Here I post updates of my journey of learning, teaching and building.
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fistadev&show_icons=true&theme=dark)
 <br />
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fistadev&layout=dark)](https://github.com/fistadev/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fistadev&show_icons=true&theme=dark)](https://github.com/fistadev/github-readme-stats)
 <br />
-<a href="https://github.com/fistadev/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=fistadev&repo=github-readme-stats" />
-</a>
+
 
 
 
