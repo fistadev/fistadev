@@ -9,11 +9,8 @@ Here I post updates of my journey of learning, teaching and building.
 
 ```
 * Python
-* HTML / CSS
-* Data Analysis
-* Machine Learning
-* Deep Learning
-* Computer Vision
+* Web Development
+* Data Analysis / Machine Learning
 ```
 
 
@@ -33,7 +30,8 @@ Here I post updates of my journey of learning, teaching and building.
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fistadev&show_icons=true&theme=dark)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fistadev)](https://github.com/fistadev/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fistadev&layout=dark)](https://github.com/fistadev/github-readme-stats)
+
 
 
 
