@@ -30,6 +30,11 @@ Here I post updates of my journey of learning, teaching and building.
 * <a href="https://share.streamlit.io/ntc-google-fit/google_fit_project/main/app.py" target="_blank">Trackts App</a> - tracking app that predictions the transportation
 * Fashion Mnist App - under construction
 * EmotioNow App - under construction
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fistadev&show_icons=true&theme=dracula)
+
+
 <!-- * [Heart Attack Predictions](https://share.streamlit.io/fistadev/heart_attack_predictions/main/app.py) - Machine Learning Models -->
 
 
