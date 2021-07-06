@@ -32,7 +32,9 @@ Here I post updates of my journey of learning, teaching and building.
 * EmotioNow App - under construction
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fistadev&show_icons=true&theme=dark)(https://github.com/fistadev/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fistadev&show_icons=true&theme=dark)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fistadev)](https://github.com/fistadev/github-readme-stats)
+
 
 
 
