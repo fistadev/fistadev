@@ -33,7 +33,9 @@ Here I post updates of my journey of learning, teaching and building.
 <br />
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fistadev&layout=dark)](https://github.com/fistadev/github-readme-stats)
 <br />
-
+<a href="https://github.com/fistadev/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=fistadev&repo=github-readme-stats" />
+</a>
 
 
 
