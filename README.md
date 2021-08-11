@@ -1,6 +1,6 @@
 ## I am Fabio Fistarol
 
-![](https://github.com/fistadev/fistadev.github.io/blob/main/imgs/header-github.jpg)
+![](https://github.com/fistadev/fistadev.github.io/blob/main/imgs/header-github-V2.jpg)
 
 Developer and Ai Engineering student. Also a photographer and musician during my free time. 📷 🎸 
 
@@ -19,6 +19,7 @@ Here I post updates of my journey of learning, teaching and building.
 * <a href="https://twoplususweddings.com/" target="_blank">Two + Us</a> - non-profit co-creator 
 * <a href="https://giovanaduailibe.com/" target="_blank">Giovana Duailibe</a> - managing and planning web and data (email and ads) 
 * Creadea - currently planning the company website 
+* AI MASHING
 
 
 
