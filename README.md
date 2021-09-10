@@ -8,9 +8,9 @@ Here I post updates of my journey of learning, teaching and building.
 
 
 ```
-* Web Development
 * Data Science 
 * Machine Learning
+* Web Development
 ```
 
 
