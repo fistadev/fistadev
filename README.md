@@ -2,28 +2,28 @@
 
 ![](https://github.com/fistadev/fistadev.github.io/blob/main/imgs/header-github-V2.jpg)
 
-Developer and Ai Engineering student. Also a photographer and musician during my free time. 📷 🎸 
+Developer and AI Engineering. Also a photographer and musician during my free time. 📷 🎸 
 
 Here I post updates of my journey of learning, teaching and building.
 
 
 ```
-* Python
 * Web Development
-* Data Analysis / Machine Learning
+* Data Science 
+* Machine Learning
 ```
 
 
-### 🗂 Currently working with:
-* <a href="https://www.beliefweddingcreators.com/" target="_blank">Belief Wedding Creators</a> - managing and planning web and data (email and ads)
-* <a href="https://twoplususweddings.com/" target="_blank">Two + Us</a> - non-profit co-creator 
+### 🗂 Experience:
+* <a href="https://www.beliefweddingcreators.com/" target="_blank">Belief Wedding Creators</a> - web manager and data scientist (website, email and ads)
+* <a href="https://twoplususweddings.com/" target="_blank">Two + Us</a> - non-profit project co-creator 
 * <a href="https://giovanaduailibe.com/" target="_blank">Giovana Duailibe</a> - managing and planning web and data (email and ads) 
-* Creadea - currently planning the company website 
+* Creadea (Germany) - currently planning the company website 
 * AI MASHING
 
 
 
-### 🖥 Live projects with Streamlit: 
+### 🖥 Live projects: 
 * <a href="https://share.streamlit.io/dumbledore-on-strive/goodreads-app" target="_blank">Goodreads</a> - Webscraping, Data Analysis
 * <a href="https://share.streamlit.io/fistadev/starwars_data_project/main/app.py" target="_blank">Star Wars Challenge</a> - Data Exploration, graphs
 * <a href="https://share.streamlit.io/ntc-google-fit/google_fit_project/main/app.py" target="_blank">Trackts App</a> - tracking app that predictions the transportation
@@ -48,7 +48,7 @@ Here I post updates of my journey of learning, teaching and building.
 
 * [Python](https://www.python.org/) / [Numpy](https://numpy.org/) / [Pandas](https://pandas.pydata.org/docs/user_guide/10min.html)
 * Matplotlib / Seaborn
-* [SciKit-Learn](https://scikit-learn.org/stable/index.html) / [Pytorch](https://pytorch.org/) / [TensorFlow](https://www.tensorflow.org/) / [OpenCV](https://opencv.org/) / [Spacy](https://spacy.io/)
+* [SciKit-Learn](https://scikit-learn.org/stable/index.html) / [Pytorch](https://pytorch.org/) / [TensorFlow](https://www.tensorflow.org/) / [OpenCV](https://opencv.org/) / [Spacy](https://spacy.io/) / [Spark](https://spark.apache.org/)
 * [Flask](https://flask.palletsprojects.com/en/2.0.x/) / [Streamlit](https://streamlit.io/) / [Django](https://www.djangoproject.com/)
 * HTML / CSS / [Bootstrap](https://getbootstrap.com/)
 * [VSCode](https://code.visualstudio.com/) / [PyCharm](https://www.jetbrains.com/pycharm/)
