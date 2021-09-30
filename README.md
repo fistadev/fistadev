@@ -24,6 +24,8 @@ Here I post updates of my journey of learning, teaching and building.
 
 
 ### 🖥 Live projects: 
+* <a href="https://www.fabiofistarol.com/" target="_blank">Portofolio</a> - Django / PostgreSQL / Heroku
+* <a href="https://www.parlock.herokuapp.com.com/" target="_blank">Parlock</a> - Flask / Pytorch / Scikit-Learn / Pandas / Heroku
 * <a href="https://share.streamlit.io/dumbledore-on-strive/goodreads-app" target="_blank">Goodreads</a> - Webscraping, Data Analysis
 * <a href="https://share.streamlit.io/fistadev/starwars_data_project/main/app.py" target="_blank">Star Wars Challenge</a> - Data Exploration, graphs
 * <a href="https://share.streamlit.io/ntc-google-fit/google_fit_project/main/app.py" target="_blank">Trackts App</a> - tracking app that predictions the transportation
