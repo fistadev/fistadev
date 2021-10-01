@@ -22,6 +22,8 @@ Here I post updates of my journey of learning, teaching and building.
 * AI MASHING
 
 
+<br />
+
 
 ### 🖥 Live projects: 
 * <a href="https://www.fabiofistarol.com/" target="_blank">Portofolio</a> - Django / PostgreSQL / Heroku
@@ -36,9 +38,6 @@ Here I post updates of my journey of learning, teaching and building.
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fistadev&show_icons=true&theme=dark) -->
 <br />
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fistadev&show_icons=true&theme=dark)](https://github.com/fistadev/github-readme-stats) -->
-<br />
-
-
 
 
 
@@ -57,6 +56,8 @@ Here I post updates of my journey of learning, teaching and building.
 * [Anaconda](https://www.anaconda.com/) / [Jupyter Notebook](https://jupyter.org/) / [DeepNote](https://deepnote.com/) / Google Collab
 
 
+<br />
+
 <!-- ### NoCode Stuff
 
 * Email Marketing: [Mailchimp](https://mailchimp.com/)
@@ -70,6 +71,8 @@ Here I post updates of my journey of learning, teaching and building.
 
 For more details check ou my [Twitter](https://twitter.com/fafistarol) ou my [Linkedin](https://www.linkedin.com/in/fabiofistarol/)
 
+
+<br />
 
 
 ### 🍿 Online Version 
