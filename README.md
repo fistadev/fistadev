@@ -53,7 +53,7 @@ Here I post updates of my journey of learning, teaching and building.
 <!-- - [NLP]() -->
 <!-- - [Computer Vision]() -->
 <!-- - [Web Development]() -->
-<!-- - [Sorting Algorithms]() -->
+<!-- - [Sorting Algorithms](https://github.com/fistadev/sorting_algorithms) -->
 
 
 <br />
