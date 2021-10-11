@@ -45,6 +45,12 @@ Here I post updates of my journey of learning, teaching and building.
 
 <!-- * [Heart Attack Predictions](https://share.streamlit.io/fistadev/heart_attack_predictions/main/app.py) - Machine Learning Models -->
 
+### Repos
+- [Machine Learning](https://github.com/fistadev/machine_learning_algorithms)
+- [Python](https://github.com/fistadev/python_learning_projects)
+
+
+<br />
 
 
 ### 🛠 Stacks / Techs / Skills
