@@ -46,15 +46,17 @@ Here I post updates of my journey of learning, teaching and building.
 
 <!-- * [Heart Attack Predictions](https://share.streamlit.io/fistadev/heart_attack_predictions/main/app.py) - Machine Learning Models -->
 
-### Repos
-- [Machine Learning](https://github.com/fistadev/machine_learning_algorithms)
-- [Python](https://github.com/fistadev/python_learning_projects)
-- [Sorting Algorithms](https://github.com/fistadev/sorting_algorithms)
-<!-- - [SQL]() -->
-<!-- - [Data Visualization]() -->
-<!-- - [NLP]() -->
-<!-- - [Computer Vision]() -->
-<!-- - [Web Development]() -->
+### 🎯 Repos
+- <a href="https://github.com/fistadev/machine_learning_algorithms" target="_blank">Machine Learning</a>
+- <a href="https://github.com/fistadev/python_learning_projects" target="_blank">Python Projects</a>
+- <a href="https://github.com/fistadev/sorting_algorithms" target="_blank">Sorting Algorithms</a>
+
+<!-- - <a href="" target="_blank">SQL</a> -->
+<!-- - <a href="" target="_blank">Data Visualization</a> -->
+<!-- - <a href="" target="_blank">NLP</a> -->
+<!-- - <a href="" target="_blank">Computer Vision</a> -->
+<!-- - <a href="" target="_blank">Web Development</a> -->
+
 
 
 <br />
@@ -92,7 +94,7 @@ For more details check ou my [Twitter](https://twitter.com/fafistarol) ou my [Li
 
 ### 🍿 Online Version 
 
-If you are on GitHub, [click here](https://fistadev.github.io/) to see it live.
+Check the <a href="https://www.fabiofistarol.com/" target="_blank">portofolio</a> live.
 
 
 
