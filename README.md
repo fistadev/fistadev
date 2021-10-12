@@ -8,6 +8,7 @@ Here I post updates of my journey of learning, teaching and building.
 
 
 ```
+* Project Management
 * Data Science 
 * Machine Learning
 * Web Development
