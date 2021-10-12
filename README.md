@@ -48,12 +48,12 @@ Here I post updates of my journey of learning, teaching and building.
 ### Repos
 - [Machine Learning](https://github.com/fistadev/machine_learning_algorithms)
 - [Python](https://github.com/fistadev/python_learning_projects)
+- [Sorting Algorithms](https://github.com/fistadev/sorting_algorithms)
 <!-- - [SQL]() -->
 <!-- - [Data Visualization]() -->
 <!-- - [NLP]() -->
 <!-- - [Computer Vision]() -->
 <!-- - [Web Development]() -->
-<!-- - [Sorting Algorithms](https://github.com/fistadev/sorting_algorithms) -->
 
 
 <br />
