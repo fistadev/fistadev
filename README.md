@@ -95,7 +95,7 @@ For more details check ou my [Twitter](https://twitter.com/fafistarol) ou my [Li
 
 ### 🍿 Online Version 
 
-Check the <a href="https://www.fabiofistarol.com/" target="_blank">portofolio</a> live.
+Check the <a href="https://www.fabiofistarol.com/" target="_blank">Django portfolio</a> live.
 
 
 
