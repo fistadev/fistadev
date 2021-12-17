@@ -71,7 +71,6 @@ Here I post updates of my journey of learning, teaching and building.
 * [OpenCV](https://opencv.org/) 
 * [Spacy](https://spacy.io/) / NLTK 
 * Matplotlib / Seaborn
-* [Spark](https://spark.apache.org/)
 * HTML / CSS / [Bootstrap](https://getbootstrap.com/) 
 * SQL / PostgreSQL 
 * Docker
