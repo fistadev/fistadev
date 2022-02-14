@@ -3,7 +3,7 @@
 
 ![](https://github.com/fistadev/fistadev.github.io/blob/main/imgs/header-github-V2.jpg)
 
-Developer and AI Engineering. Also a photographer and musician during my free time. 📷 🎸 
+Project Manager, Developer, Marketer. Also a photographer and musician during my free time. 📷 🎸 
 
 Here I post updates of my journey of learning, teaching and building.
 
