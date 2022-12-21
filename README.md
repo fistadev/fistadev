@@ -17,7 +17,7 @@ Here I post updates of my journey of learning, teaching and building.
 
 
 ### 🗂 Experience:
-* <a href="https://www.beliefweddingcreators.com/" target="_blank">Belief Wedding Creators</a> - web manager and data scientist (website, email and ads)
+* Belief Wedding Creators - web manager and data scientist (website, email and ads)
 * <a href="https://twoplususweddings.com/" target="_blank">Two + Us</a> - non-profit project co-creator 
 * <a href="https://giovanaduailibe.com/" target="_blank">Giovana Duailibe</a> - managing and planning web and data (email and ads) 
 * Creadea (Germany) - currently planning the company website 
